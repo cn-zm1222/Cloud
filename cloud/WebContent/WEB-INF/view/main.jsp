@@ -115,7 +115,7 @@
         <span style="padding-left:10px; font-size: 16px; "><img src="images/headerLogo.png" width="30" height="20" align="absmiddle" /> 云盘</span>
     </div>
     <div region="south" split="true" style="height: 30px; background: #D2E0F2; ">
-        <div class="footer">&copy;2017-2018 Designed by Zhang Man</div>
+        <div class="footer">&copy;2018-2019 Designed by Zhang Man</div>
     </div>
     <div region="west" hide="true" split="true" title="导航菜单" style="width:180px;" id="west">
 <div id="nav" class="easyui-accordion" fit="true" border="false">
